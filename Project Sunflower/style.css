@@ -8,6 +8,17 @@ h1{
 .navbar{
     display: flex;
     justify-content: space-between;
+    margin-right: 4vw;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: rgb(36, 136, 223);
 }
 ul{
    display: flex;
